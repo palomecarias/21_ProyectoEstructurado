@@ -1,3 +1,10 @@
+/*------------------------------------------------------------*/
+/* Autor: Palomec Arias Eliezer Fidel */
+/* e-mail:palomec_94@hotmail.com */
+/* fecha de creacion: 12/04/18 */
+/* fecha de actualizacion: 12/04/18 */
+/* programa que determina que numero es menor */
+/*------------------------------------------------------------*/
 #include <stdio.h>
 int main(void)
 {
